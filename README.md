@@ -36,3 +36,6 @@ A cutting-edge Web3 reward platform that transforms blockchain interactions into
 ```bash
 git clone https://github.com/Boomchainlab/lerf-rewards-hub.git
 cd lerf-rewards-hub
+
+npm install
+
