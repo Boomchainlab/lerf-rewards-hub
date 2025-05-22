@@ -1,0 +1,12 @@
+# Exported from Render on 2025-05-22T20:00:11Z
+services:
+- type: web
+  name: lerf-rewards-hub
+  runtime: node
+  repo: https://github.com/BoomchainLabs/lerf-rewards-hub
+  plan: free
+  region: oregon
+  buildCommand: yarn
+  startCommand: yarn start
+  autoDeployTrigger: commit
+version: "1"
