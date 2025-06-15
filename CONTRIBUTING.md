@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks/earn-app-typescript.git
+$ npm install git+ssh://git@github.com:BoomchainLabs/lerf-rewards-hub.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks/earn-app-typescript
-$ cd earn-app-typescript
+$ git clone https://www.github.com/BoomchainLabs/lerf-rewards-hub
+$ cd lerf-rewards-hub
 
 # With yarn
 $ yarn link
