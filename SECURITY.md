@@ -20,7 +20,7 @@ or products provided by Earn App, please follow the respective company's securit
 
 ### Earn App Terms and Policies
 
-Please contact support@boomchainlab.com for any questions or concerns regarding the security of our services.
+Please contact cashapppaymentpay01@gmail.com for any questions or concerns regarding the security of our services.
 
 ---
 
