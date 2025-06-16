@@ -1,37 +1,10 @@
-# Dependencies
+.prism.log
 node_modules
-.pnp
-.pnp.js
-
-# Build outputs
+yarn-error.log
+codegen.log
+Brewfile.lock.json
 dist
-build
-.output
+dist-deno
+/*.tgz
+.idea/
 
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Editor directories and files
-.idea
-.vscode/*
-!.vscode/extensions.json
-!.vscode/settings.json
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# OS files
-.DS_Store
